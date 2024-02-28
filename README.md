@@ -1,7 +1,7 @@
 # ✨ Analyzing American Baby Name Trends
 
 ## About the project:
-The main goal is to understand how American baby name tastes changed by investigating trends of popularity
+The main goal is to understand how American baby name tastes changed by investigating trends of popularity. 
 
 ## About the dataset:
 We'll study data provided by the U.S. Social Security Administration containing first names, which were given to over 5,000 American babies each year for the period of 101 years.
@@ -50,3 +50,5 @@ We'll study data provided by the U.S. Social Security Administration containing 
 * Joining data
 * Common table expressions (CTEs)
 * Window functions
+
+#### The project was completed using DataCamp resources.
