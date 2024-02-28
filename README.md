@@ -1,7 +1,7 @@
 # ✨ Analyzing American Baby Name Trends
 
 ## About the project:
-The main goal is to understand how American baby name tastes changed by investigating trends of popularity. 
+The main goal is understanding how American baby name tastes changed by investigating popularity trends. 
 
 ## About the dataset:
 We'll study data provided by the U.S. Social Security Administration containing first names, which were given to over 5,000 American babies each year for the period of 101 years.
@@ -16,11 +16,11 @@ We'll study data provided by the U.S. Social Security Administration containing 
 
 ## Key takeaway (Answers to the questions above): 
 
-* The top 5 classic Americen names are James, John, William, David, and Joseph. Elizabeth is the only female name in the top 10 
+* The top 5 classic American names are James, John, William, David, and Joseph. Elizabeth is the only female name in the top 10 
 * The 5 top-ranked female names since 1920 are Mary, Patricia, Elizabeth, Jennifer, and Linda.
-* The most popular female name ending in "a" since 2015 is Olivia.
+* Olivia is the most popular female name, ending with an "a" since 2015.
 * The most popular male names by year
-* The most popular male names from year 2011 to 2020
+* The most popular male names from the year 2011 to 2020
   | Year  | Name |
   | -------- | ------- 
   | 2011  | Jacob |
