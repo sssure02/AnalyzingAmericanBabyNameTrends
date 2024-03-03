@@ -6,7 +6,7 @@ The main goal is understanding how American baby name tastes changed by investig
 ## About the dataset:
 We'll study data provided by the U.S. Social Security Administration containing first names, which were given to over 5,000 American babies each year for the period of 101 years.
 
-## Questions for the analysis: 
+## Questions: 
 
 * What are the classic American names for over 100 years?
 * What are the top-ranked female names since 1920?
@@ -14,7 +14,7 @@ We'll study data provided by the U.S. Social Security Administration containing 
 * What are the most popular male names by year?
 * Which name has been number one for the largest number of years?
 
-## Key takeaway (Answers to the questions above): 
+## Key takeaways (Answers to the questions above): 
 
 * The top 5 classic American names are James, John, William, David, and Joseph. Elizabeth is the only female name in the top 10 
 * The 5 top-ranked female names since 1920 are Mary, Patricia, Elizabeth, Jennifer, and Linda.
